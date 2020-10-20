@@ -1,11 +1,12 @@
 # US-Clinical-Patient-Data
 
-About:-The US clinical patient data set was our final capstone project. Our goal was to help the hospital prioritize attention towards certain diabetic patients who have a high probability of getting readmitted to the hospital based on past information from the data collected.
+# About:-
+The US clinical patient data set was our final capstone project. Our goal was to help the hospital prioritize attention towards certain diabetic patients who have a high probability of getting readmitted to the hospital based on past information from the data collected.
 
-Modeling
+# Modeling
 After clearing a lot of unneeded noise from the data set we built 3 different models. The first one found if the patient is getting readmitted within 30 days, after 30 days or not getting readmitted in that year. The second one found whether the patient is getting readmitted or not. The third one found whether the patient will get readmitted within 30 days or after 30 days.
 
-References
+# References
 The following research papers were referenced
 
 “Diabetes 130 US hospitals dataset” by Weiyan Wu, Yao Jin, Jiwei Wang, Lingyun Mao, Han W.
