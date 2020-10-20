@@ -1,6 +1,6 @@
 # US-Clinical-Patient-Data
 
-# About:-
+# About
 The US clinical patient data set was our final capstone project. Our goal was to help the hospital prioritize attention towards certain diabetic patients who have a high probability of getting readmitted to the hospital based on past information from the data collected.
 
 # Modeling
